@@ -1,0 +1,6 @@
+title: "Choi Lab — Computational Proteogenomics"
+description: "Exploring novel therapeutic peptides through multi-omics approaches."
+baseurl: ""
+url: "https://choilab.netlify.app"
+theme: minima
+markdown: kramdown
