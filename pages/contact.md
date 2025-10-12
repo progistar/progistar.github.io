@@ -9,7 +9,7 @@ title: "Contact"
 Seoul 02707, South Korea  
 
 ✉️ **Email**  
-shchoi7@kookmin.ac.kr  
+shchoi8@kookmin.ac.kr  
 
 ☎ **Tel**  
 02-910-5653
