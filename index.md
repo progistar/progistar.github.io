@@ -5,9 +5,9 @@ title: "Welcome"
 
 # Welcome to Computational Bioinformatics Lab!
 
-We study **computational bioinformatics** to better understand and identify 🦠tumor pathogenesis and 🧪therapeutic targets using multi-omics data. <br><br>
-Our research integrates: <br>
-🔬 **mass spectrometry** <br>
-🧬 **next-generation sequencing** <br>
-🖥️ **computational techniques (algorithms, machine/deep learning)** <br>
+We combine multi-omics data with cutting-edge computational methods to decode **🦠tumor biology** and reveal **🧪new therapeutic targets**.
+Our research brings together:  
+🔬 **Mass spectrometry-based proteomics**  
+🧬 **Next-generation sequencing**  
+🖥️ **Advanced computational algorithms and AI models**  
 
