@@ -1,0 +1,35 @@
+---
+layout: default
+carousel:
+  - slide-1.png
+  - slide-2.png
+---
+<script src="{{ site.baseurl }}/assets/javascript/jquery-3.3.1.min.js"></script>
+<script src="{{ site.baseurl }}/assets/javascript/bootstrap.min.js"></script>
+
+    <header>
+        <h1>Welcome to {{ page.title | default: site.title }}</h1>
+        <h2>{{ page.description | default: site.description }}</h2>
+    </header>
+
+<div id="carousel_container">
+    <div class="row">
+        {% include carousel.html %}
+    </div>
+</div>
+
+<div class="spacer"></div>
+<div class="spacer"></div>
+
+<h1>News</h1>
+{% assign sorted = site.data.news | sort: 'date' | reverse %}
+<div class="row">
+{% for entry in sorted limit:4 %}
+    <div class="col-md-3">
+        <h3>{{ entry.date }}</h3>
+        <p style="word-wrap: break-word;">{{ entry.description}}</p>
+    </div>
+{% endfor %}
+</div>
+
+{{ content }}
