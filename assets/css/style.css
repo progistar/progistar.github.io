@@ -16,6 +16,12 @@ header h1 a {
   color: #2c3e50;
 }
 
+nav {
+  background-color: #003366;
+  text-align: center;
+  padding: 0.5em;
+}
+
 nav ul {
   list-style: none;
   padding: 0;
@@ -33,9 +39,10 @@ nav a:hover {
 }
 
 footer {
+  background-color: #004080;
+  color: white;
   text-align: center;
-  font-size: 0.9rem;
-  color: #777;
-  border-top: 1px solid #ddd;
-  margin-top: 2rem;
+  padding: 1em 0;
+  font-size: 0.9em;
+  margin-top: 2em;
 }
