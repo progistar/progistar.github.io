@@ -3,12 +3,16 @@ layout: page
 title: "Members"
 ---
 
-### Principal Investigator
-**Dr. Seunghyuk Choi**  
+### 🔴 Principal Investigator
+**Seunghyuk Choi**  
 Assistant Professor, Kookmin University  
+Postdoctoral Associate, Baylor College of Medicine, USA  
 Ph.D., Hanyang University  
-Postdoctoral Training, Baylor College of Medicine, USA  
+B.S., Hanyang University  
 
-### Students
-- M.S. Student: J. Kim  
-- Ph.D. Student: H. Lee  
+### 🟠 Ph.D. Students & Candidates
+
+### 🟡 M.S. Students & Candidates
+
+### ⚪️ B.S. Students
+

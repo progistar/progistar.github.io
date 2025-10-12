@@ -4,11 +4,12 @@ title: "Contact"
 ---
 
 📍 **Address**  
-College of Science, Kookmin University  
-Seoul, Republic of Korea  
+103, Building B, Youngbingwan, Kookmin University  
+77 Jeongneung-ro, Seongbuk-gu,  
+Seoul 02707, South Korea  
 
 ✉️ **Email**  
-seunghyuk@kookmin.ac.kr  
+shchoi7@kookmin.ac.kr  
 
-🌐 **Website**  
-[https://choilab.netlify.app](https://choilab.netlify.app)
+☎ **Tel**  
+02-910-5653

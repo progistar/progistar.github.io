@@ -3,7 +3,11 @@ layout: default
 title: "Welcome"
 ---
 
-# Welcome to Choi Lab
+# Welcome to Computational Bioinformatics Lab!
 
-We study **computational proteogenomics** to identify novel peptides and therapeutic targets using multi-omics data.  
-Our research integrates **mass spectrometry**, **genomic sequencing**, and **AI-based prediction** to better understand tumor antigen landscapes.
+We study **computational bioinformatics** to better understand and identify 🦠tumor pathogenesis and 🧪therapeutic targets using multi-omics data. <br><br>
+Our research integrates: <br>
+🔬 **mass spectrometry** <br>
+🧬 **next-generation sequencing** <br>
+🖥️ **computational techniques (algorithms, machine/deep learning)** <br>
+

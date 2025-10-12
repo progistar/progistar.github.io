@@ -1,6 +1,6 @@
-title: "Choi Lab — Computational Proteogenomics"
-description: "Exploring novel therapeutic peptides through multi-omics approaches."
+title: "Computational Bioinformatics"
+description: "🚀 Exploring novel therapeutic targets through multi-omics approaches..."
 baseurl: ""
-url: "https://choilab.netlify.app"
+url: "https://progistar.github.io"
 theme: minima
 markdown: kramdown
