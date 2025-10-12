@@ -1,4 +1,9 @@
-<header>
-  <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-  <p>{{ site.description }}</p>
+<header style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="/assets/img/Signature_KMU10.png" alt="Lab logo" style="height: 60px; margin-left: 0px; margin-right: -5px;">
+  <h1 style="margin: 0;">
+    <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">
+      {{ site.title }}
+    </a>
+  </h1>
 </header>
+<p style="text-align: center;">{{ site.description }}</p>
