@@ -13,7 +13,7 @@ categories:
             </a>
             <div>
                 <a href="{{ paper.url }}">{{ paper.title }}</a>
-                <p>{{ paper.ref }}</p>
+                <p>{{ paper.ref }} {{ paper.year }}</p>
             </div>
         </div>
     {% cycle 'close rows': nil, nil, '</div>' %}
