@@ -1,6 +1,46 @@
-title: "Choi Lab — Computational Proteogenomics"
-description: "Exploring novel therapeutic peptides through multi-omics approaches."
-baseurl: ""
-url: "https://choilab.netlify.app"
-theme: minima
+# 기본 사이트 정보
+title: "Choi Lab — Computational Biology & Proteogenomics"
+description: "Exploring multi-omics integration, neoantigen discovery, and bioinformatics tools."
+baseurl: ""         # 사이트가 호스팅되는 서브폴더 (예: /lab) 있을 경우 입력
+url: "https://progistar.github.io"   # 배포될 도메인
+
+# 테마 및 마크다운 설정
+theme: lab_pages
 markdown: kramdown
+
+# 언어 / 시간대 설정 (선택)
+lang: en
+timezone: Asia/Seoul
+
+# PI 및 실험실 정보 (필수 항목)
+pi_name: "Seunghyuk Choi"
+pi_email: "seunghyuk.choi@kookmin.ac.kr"
+lab_address: "77 Jeongneung-ro, Seongbuk-gu, Seoul"
+lab_city: "Seoul"
+lab_country: "Republic of Korea"
+
+# Logo, 연락처 등 선택 사항
+pi_fax: ""            # optional
+lab_fax: ""           # optional
+lab_phone: ""         # optional
+lab_website: "https://choilab.netlify.app"
+
+# 논문(papers) 설정
+papers:
+  per_page: 10        # 한 페이지에 나오는 논문 개수
+  sort_by: "date"      # 정렬 기준 (예: date, title)
+
+# 컬렉션 설정 (예: projects, members)
+collections:
+  projects:
+    output: true
+  members:
+    output: true
+
+# 플러그인 (필요 시)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build 설정
+paginate: 5           # 블로그 스타일 페이징 수 (필요시)
