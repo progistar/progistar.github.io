@@ -15,4 +15,4 @@ B.S., Hanyang University
 ### 🟡 M.S. Students & Candidates
 
 ### ⚪️ B.S. Students
-
+신유인, shinala0602@gmail.com
