@@ -13,6 +13,6 @@ B.S., Hanyang University
 ### 🟠 Ph.D. Students & Candidates
 
 ### 🟡 M.S. Students & Candidates
-
+정윤서, jys2564@gmail.com
 ### ⚪️ B.S. Students
 신유인, shinala0602@gmail.com
