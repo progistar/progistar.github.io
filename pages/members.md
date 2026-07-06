@@ -43,6 +43,13 @@ title: "Members"
         <span class="email">✉ jys2564@gmail.com</span>
       </div>
     </div>
+    <div class="member-card">
+      <div class="member-avatar">신</div>
+      <div class="member-info">
+        <h4>신유인</h4>
+        <span class="email">✉ shinala0602@gmail.com</span>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -52,10 +59,17 @@ title: "Members"
   </div>
   <div class="members-grid">
     <div class="member-card">
-      <div class="member-avatar">신</div>
+      <div class="member-avatar">이</div>
       <div class="member-info">
-        <h4>신유인</h4>
-        <span class="email">✉ shinala0602@gmail.com</span>
+        <h4>이효진</h4>
+        <span class="email">✉ aquarius8139@kookmin.ac.k</span>
+      </div>
+    </div>
+    <div class="member-card">
+      <div class="member-avatar">이</div>
+      <div class="member-info">
+        <h4>이정훈</h4>
+        <span class="email">✉ ljh37694@kookmin.ac.kr</span>
       </div>
     </div>
   </div>
