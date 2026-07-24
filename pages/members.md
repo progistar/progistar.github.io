@@ -62,7 +62,7 @@ title: "Members"
       <div class="member-avatar">이</div>
       <div class="member-info">
         <h4>이효진</h4>
-        <span class="email">✉ aquarius8139@kookmin.ac.k</span>
+        <span class="email">✉ aquarius8139@kookmin.ac.kr</span>
       </div>
     </div>
     <div class="member-card">
